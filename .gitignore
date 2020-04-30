@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pyhcarm
+.idea
+
+# databases
+/MyBlog/databases.py
